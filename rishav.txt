@@ -1,2 +1,6 @@
 This is cherry-picking demo
 I hope you find it good and worthy enough.
+
+
+This is again an example of cherry-picking.
+I hope you find it worthy enough.
