@@ -1,1 +1,2 @@
-This is advanced Git Concepts
+This is cherry-picking demo
+I hope you find it good and worthy enough.
